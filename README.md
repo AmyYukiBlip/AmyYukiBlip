@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmyYukiBlip
+- 👋 Hi, I’m Amz
 - 👀 I’m interested in learning to code 💻
 - 🌱 I’m currently learning with CFG & Northcoders ✌️
 
