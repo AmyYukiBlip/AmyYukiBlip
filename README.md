@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amz
-- 👀 I’m interested in learning to code 💻
-- 🌱 I’m currently learning with CFG & Northcoders ✌️
+- 👀 I’m learning to code in JavaScript 💻
+- 🌱 I’m currently learning with Northcoders ✌️
 
 <!---
 AmyYukiBlip/AmyYukiBlip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
