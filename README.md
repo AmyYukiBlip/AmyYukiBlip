@@ -7,7 +7,7 @@
 ### Technical Skills 👩‍💻
 - **Languages**: JavaScript, using Node.js and browsers as environment 
 - **Testing**: TDD (Test Driven Development), Jest, Supertest
--** Back-end**: SQL, PSQL, seeding, migrations
+- **Back-end**: SQL, PSQL, seeding, migrations
 - **Front-end**: HTML, CSS, React, React Native, Lighthouse and other accessibility tools 
 - **Hosting**: Cloudﬂare, Netlify
 - **Other**: Paired programming, technical communication, SDL, Agile and SCRUM methodologies
